@@ -1,3 +1,3 @@
 
 # fast-pflab-02
-*Lab repositary for PF In-Lab Class*
+**Lab repositary for PF In-Lab Class**
